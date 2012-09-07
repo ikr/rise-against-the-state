@@ -1,0 +1,8 @@
+
+Problem: Software crisis
+
+- Complexity
+    - Essential?
+    - Accidental!
+
+- Main reason: state management

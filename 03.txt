@@ -1,0 +1,6 @@
+
+Place-oriented programming
+
+- Heritage of 70's; now irrelevant
+- Not how the real world works
+    - Facts, not fact placeholders

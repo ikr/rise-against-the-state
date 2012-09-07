@@ -1,0 +1,7 @@
+
+Solution: functional programming
+
+- Places: bad; values: good
+- Referential transparency
+
+Start small...
