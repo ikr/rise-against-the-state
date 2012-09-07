@@ -32,7 +32,7 @@ Solution: functional programming
 
 Start small...
 
-*
+***
 
     // :(
 
@@ -42,7 +42,7 @@ Start small...
 
     return $.extend({}, o, {foo: "bar"});
 
-*
+***
 
     // :(
 
@@ -53,7 +53,7 @@ Start small...
 
     return someDate.aNewDateIn(2, "months");
 
-*
+***
 
 
     // :(
@@ -76,7 +76,7 @@ Start small...
         });
     }
 
-*
+***
 
     // :(
 
