@@ -2,7 +2,7 @@
 Problem: Software crisis
 
 - Complexity
-    - Essential?
-    - Accidental!
+    - Essential? (Brooks)
+    - Accidental! (Moseley, Marks)
 
 - Main reason: state management
