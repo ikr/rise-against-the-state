@@ -102,3 +102,7 @@ Start small...
 * [Value of values](http://www.infoq.com/presentations/Value-Values)
 
 * [Simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+
+The video of the talk
+
+[http://www.ustream.tv/recorded/25240687](http://www.ustream.tv/recorded/25240687)
